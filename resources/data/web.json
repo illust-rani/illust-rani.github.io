@@ -1,0 +1,225 @@
+{
+    "zoomable":true,
+    "zoomtype":"single-big",
+    "reverseOrder": false,
+
+    "items":[
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 농업회사법인정스팜",
+            "thumbnail": "web/thm_01.jpg",
+            "images": [
+                "web/page_01.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 대현환경",
+            "thumbnail": "web/thm_02.jpg",
+            "images": [
+                "web/page_02.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 디지아이",
+            "thumbnail": "web/thm_03.jpg",
+            "images": [
+                "web/page_03.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 디엔비",
+            "thumbnail": "web/thm_04.jpg",
+            "images": [
+                "web/page_04.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 솔루체피자",
+            "thumbnail": "web/thm_05.jpg",
+            "images": [
+                "web/page_05.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 루에스디",
+            "thumbnail": "web/thm_06.jpg",
+            "images": [
+                "web/page_06.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 한길산업",
+            "thumbnail": "web/thm_07.jpg",
+            "images": [
+                "web/page_07.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 세광문화사",
+            "thumbnail": "web/thm_08.jpg",
+            "images": [
+                "web/page_08.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 제일기포이엔지",
+            "thumbnail": "web/thm_09.jpg",
+            "images": [
+                "web/page_09.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 제영산업",
+            "thumbnail": "web/thm_10.jpg",
+            "images": [
+                "web/page_10.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 에듀케이션아이코퍼레이션",
+            "thumbnail": "web/thm_11.jpg",
+            "images": [
+                "web/page_11.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 다미상사",
+            "thumbnail": "web/thm_12.jpg",
+            "images": [
+                "web/page_12.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 성진산업",
+            "thumbnail": "web/thm_13.jpg",
+            "images": [
+                "web/page_13.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 엠피에스코리아",
+            "thumbnail": "web/thm_14.jpg",
+            "images": [
+                "web/page_14.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 에너지제로협동조합",
+            "thumbnail": "web/thm_15.jpg",
+            "images": [
+                "web/page_15.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 디에스피원",
+            "thumbnail": "web/thm_16.jpg",
+            "images": [
+                "web/page_16.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 맥스포",
+            "thumbnail": "web/thm_17.jpg",
+            "images": [
+                "web/page_17.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 성연테크",
+            "thumbnail": "web/thm_18.jpg",
+            "images": [
+                "web/page_18.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 하누소푸드시스템",
+            "thumbnail": "web/thm_19.jpg",
+            "images": [
+                "web/page_19.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - PBCG",
+            "thumbnail": "web/thm_20.jpg",
+            "images": [
+                "web/page_20.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 플랜두",
+            "thumbnail": "web/thm_21.jpg",
+            "images": [
+                "web/page_21.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 조비",
+            "thumbnail": "web/thm_22.jpg",
+            "images": [
+                "web/page_22.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 윈팩",
+            "thumbnail": "web/thm_23.jpg",
+            "images": [
+                "web/page_23.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 비젠트로",
+            "thumbnail": "web/thm_24.jpg",
+            "images": [
+                "web/page_24.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 빌드원",
+            "thumbnail": "web/thm_25.jpg",
+            "images": [
+                "web/page_25.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 블루셀",
+            "thumbnail": "web/thm_26.jpg",
+            "images": [
+                "web/page_26.jpg"
+            ]
+        },
+        {
+            "title": "경기일자리재단 잡아바",
+            "desc": "기업소개 페이지 디자인 - 브이텍코리아",
+            "thumbnail": "web/thm_27.jpg",
+            "images": [
+                "web/page_27.jpg"
+            ]
+        }
+
+    ]
+}
