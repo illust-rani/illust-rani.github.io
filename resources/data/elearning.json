@@ -37,7 +37,7 @@
             "scale": 0.8,
             "title": "2009_서울시 직무능력 향상(운전,주차단속)",
             "desc": "UI 디자인",
-            "thumbnail": "elearning/v4/03_cover.jpg",
+            "thumbnail": "elearning/v4/05_cover.jpg",
             "images": [
                 "elearning/v4/05_01.jpg"
             ]
@@ -55,7 +55,7 @@
         {
             "scale": 0.8,
             "title": "2010_한국폴리텍대학 색채학이론",
-            "desc": "UI/Proto 디자인/시안",
+            "desc": "UI/Proto 디자인",
             "thumbnail": "elearning/v4/07_cover.jpg",
             "images": [
                 "elearning/v4/07_01.jpg"
@@ -188,7 +188,7 @@
         },
         {
             "title": "2016_서울사이버대학교 경영분석",
-            "desc": "UI 디자인/시안",
+            "desc": "UI/대표페이지 디자인",
             "scale": 0.8,
             "thumbnail": "elearning/v4/26_cover.jpg",
             "images": [
@@ -199,7 +199,7 @@
         {
             "scale": 0.8,
             "title": "2016_서울사이버대학교 스마트앱콘텐츠제작",
-            "desc": "UI 디자인/시안",
+            "desc": "UI/대표페이지 디자인",
             "thumbnail": "elearning/v4/25_cover.jpg",
             "images": [
                 "elearning/v4/25_01.jpg",
@@ -213,7 +213,7 @@
         {
             "scale": 0.8,
             "title": "2016_서울사이버대학교 정신분석세미나",
-            "desc": "UI 디자인/시안",
+            "desc": "UI/대표페이지 디자인",
             "thumbnail": "elearning/v4/24_cover.jpg",
             "images": [
                 "elearning/v4/24_01.jpg",
@@ -223,7 +223,7 @@
         {
             "scale": 0.8,
             "title": "2016_서울사이버대학교 형사증거론",
-            "desc": "UI 디자인/시안",
+            "desc": "UI/대표페이지 디자인",
             "thumbnail": "elearning/v4/23_cover.jpg",
             "images": [
                 "elearning/v4/23_01.jpg",
@@ -237,7 +237,7 @@
         {
             "scale": 0.8,
             "title": "2018_화장품 연구개발 기본과정",
-            "desc": "UI 디자인",
+            "desc": "UI/대표페이지 디자인",
             "thumbnail": "elearning/v4/27_cover.jpg",
             "images": [
                 "elearning/v4/27_01.jpg",
@@ -255,8 +255,8 @@
         },
         {
             "scale": 0.8,
-            "title": "2019_한국어촌어항공단 수산업과 어촌 가치의 이해",
-            "desc": "Proto 디자인",
+            "title": "2019_한국어촌어항공단",
+            "desc": "UI/Proto 디자인",
             "thumbnail": "elearning/v4/2019/21/cover.jpg",
             "images": [
                 "elearning/v4/2019/21/01.jpg",
@@ -276,8 +276,8 @@
         },
         {
             "scale": 0.8,
-            "title": "2020_우주 - 홈런픽 5~6학년",
-            "desc": "UI 디자인",
+            "title": "2020_홈런픽 우주",
+            "desc": "UI/Proto 디자인",
             "thumbnail": "elearning/v4/2020/HR01/cover.jpg",
             "images": [
                 "elearning/v4/2020/HR01/ppt_00.png",
@@ -293,8 +293,8 @@
         },
         {
             "scale": 0.8,
-            "title": "2020_잠 - 홈런픽 5~6학년",
-            "desc": "UI 디자인",
+            "title": "2020_홈런픽 잠",
+            "desc": "UI/Proto 디자인",
             "thumbnail": "elearning/v4/2020/HR02/cover.jpg",
             "images": [
                 "elearning/v4/2020/HR02/ppt_00.png",
@@ -308,8 +308,8 @@
         },
         {
             "scale": 0.8,
-            "title": "2020_꽃 - 홈런픽 5~6학년",
-            "desc": "UI 디자인",
+            "title": "2020_홈런픽 꽃",
+            "desc": "UI/Proto 디자인",
             "thumbnail": "elearning/v4/2020/HR03/cover.jpg",
             "images": [
                 "elearning/v4/2020/HR03/ppt_00_v2.png",
@@ -323,8 +323,8 @@
         },
         {
             "scale": 0.8,
-            "title": "2020_바다 - 홈런픽 5~6학년",
-            "desc": "UI 디자인",
+            "title": "2020_홈런픽 바다",
+            "desc": "UI/Proto 디자인",
             "thumbnail": "elearning/v4/2020/HR04/cover.jpg",
             "images": [
                 "elearning/v4/2020/HR04/ppt_00.png",
@@ -339,7 +339,7 @@
         },
         {
             "scale": 0.8,
-            "title": "2020_인공지능 - EBS",
+            "title": "2020_EBS 인공지능",
             "desc": "Proto 디자인",
             "thumbnail": "elearning/v4/2020/EBS_AI/cover.jpg",
             "images": [
@@ -368,22 +368,22 @@
         },
         {
             "scale": 0.8,
-            "title": "2022_도메인 지식 분석 활용 - 한기대",
-            "desc": "디자인 시안",
-            "thumbnail": "elearning/v4/2022/01.domain/cover.jpg",
+            "title": "2022_한기대 데이터 품질 관리 기준 설계",
+            "desc": "UI/대표페이지 디자인",
+            "thumbnail": "elearning/v4/2022/03.data/cover.jpg",
             "images": [
-                "elearning/v4/2022/01.domain/01.png",
-                "elearning/v4/2022/01.domain/02.png",
-                "elearning/v4/2022/01.domain/03.png",
-                "elearning/v4/2022/01.domain/04.png",
-                "elearning/v4/2022/01.domain/05.png",
-                "elearning/v4/2022/01.domain/06.png"
+                "elearning/v4/2022/03.data/01.png",
+                "elearning/v4/2022/03.data/02.png",
+                "elearning/v4/2022/03.data/03.png",
+                "elearning/v4/2022/03.data/04.png",
+                "elearning/v4/2022/03.data/05.png",
+                "elearning/v4/2022/03.data/06.png"
            ]
         },
         {
             "scale": 0.8,
-            "title": "2022_인공지능 서비스 개발 기초 - 한기대",
-            "desc": "디자인 시안",
+            "title": "2022_한기대 인공지능 서비스 개발 기초",
+            "desc": "UI/대표페이지 디자인",
             "thumbnail": "elearning/v4/2022/02.aiservice/cover.jpg",
             "images": [
                 "elearning/v4/2022/02.aiservice/01.png",
@@ -394,19 +394,21 @@
                 "elearning/v4/2022/02.aiservice/06.png"
            ]
         },
+
         {
             "scale": 0.8,
-            "title": "2022_데이터 품질 관리 기준 설계 - 한기대",
-            "desc": "디자인 시안",
-            "thumbnail": "elearning/v4/2022/03.data/cover.jpg",
+            "title": "2022_한기대 도메인 지식 분석 활용",
+            "desc": "UI/대표페이지 디자인",
+            "thumbnail": "elearning/v4/2022/01.domain/cover.jpg",
             "images": [
-                "elearning/v4/2022/03.data/01.png",
-                "elearning/v4/2022/03.data/02.png",
-                "elearning/v4/2022/03.data/03.png",
-                "elearning/v4/2022/03.data/04.png",
-                "elearning/v4/2022/03.data/05.png",
-                "elearning/v4/2022/03.data/06.png"
+                "elearning/v4/2022/01.domain/01.png",
+                "elearning/v4/2022/01.domain/02.png",
+                "elearning/v4/2022/01.domain/03.png",
+                "elearning/v4/2022/01.domain/04.png",
+                "elearning/v4/2022/01.domain/05.png",
+                "elearning/v4/2022/01.domain/06.png"
            ]
         }
+
     ]
 }
